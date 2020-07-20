@@ -11,7 +11,7 @@
 
 #### I tried simple linear, multiple and polynomial regression, lasso and ridge regression (which are not in this notebook) and xgbregressor and lgbregressor. Out of all, I got the best result with lgbregressor with 97% training score and 87% cross value score.  
 
-#### Finally, I cleaned, analyzed the test data just like the train data. I used the lgbregressor model to the test data to get the final house sale price.
+#### Finally, I cleaned and analyzed the test data just like the train data. I used the lgbregressor model to the test data to get the final house sale price. After converting the data frame to csv, I submitted the csv to the kaggle competition and got public score of 0.43.
 
 
 
